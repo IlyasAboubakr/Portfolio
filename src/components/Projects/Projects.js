@@ -43,7 +43,7 @@ function Projects() {
             <ProjectCard
               imgPath={original2}
               isBlog={false}
-              title="Discord Bot"
+              title="Personal Portfolio"
               description="My personal portfolio features some of my GitHub projects, along with my resume and technical skills."
               ghLink="https://github.com/IlyasAboubakr/Portfolio"
               
