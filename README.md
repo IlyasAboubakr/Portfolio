@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – soumyajit.tech
+# 🌐 Personal Portfolio 
 
 My personal portfolio **soumyajit.tech** features some of my GitHub projects, along with my resume and technical skills.
 
