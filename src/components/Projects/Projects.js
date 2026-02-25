@@ -5,6 +5,7 @@ import Particle from "../Particle";
 
 import chatify from "../../Assets/Projects/chatify.png";
 import original from "./original.png";
+import original2 from "./original2.png"
 
 function Projects() {
   return (
@@ -35,6 +36,16 @@ function Projects() {
               title="Discord Bot"
               description="Discord Bot is a customizable automation bot you created and published on GitHub to extend the functionality of a Discord server.It’s designed to interact with users in Discord using programmed commands, respond to messages, and perform automated tasks when installed and run on a server."
               ghLink="https://github.com/IlyasAboubakr/Discord-Bot"
+              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={original2}
+              isBlog={false}
+              title="Discord Bot"
+              description="My personal portfolio features some of my GitHub projects, along with my resume and technical skills."
+              ghLink="https://github.com/IlyasAboubakr/Portfolio"
               
             />
           </Col>
